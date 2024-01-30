@@ -1,6 +1,6 @@
-Analysed Data # Car-Sales-and-Performance-Analysis
-Concluded Market trend regarding vehicle type
-Top manufacturers by performance
-Contribution of vehicle type in revenue
-Lowest and Highest selling manufacturers
-Average Price of vehicle
+	Analyzed the Data from various aspects
+	Concluded market trend regarding vehicle type
+	Top manufacturers by performance
+	Contribution of vehicle type in sales
+	Lowest and highest selling manufacturers 
+	Average Price of vehicle
